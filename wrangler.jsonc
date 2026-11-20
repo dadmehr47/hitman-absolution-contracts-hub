@@ -1,0 +1,8 @@
+{
+  "name": "hitman-contracts-hub",
+  "main": "worker.js",
+  "compatibility_date": "2026-11-01",
+  "d1_databases": [
+    { "binding": "DB", "database_name": "hitman-contracts", "database_id": "2ec86a52-cd0e-4c0e-b158-ea4fa624d675" }
+  ]
+}
